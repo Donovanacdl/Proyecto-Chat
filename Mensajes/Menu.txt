@@ -1,0 +1,11 @@
+Por favor seleccionar la opción que requiera:
+
+1 - Conocer todos nuestros modelos
+2 - Información sobre un modelo específico
+3 - Programar una prueba de manejo
+4 - Consultar opciones de financiamiento
+5 - Haga una consulta
+6 - Solicitar cotización
+7 - Conversar con un asesor
+
+0 - Salir

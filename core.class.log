@@ -1,0 +1,434 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18493306753@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0B70C489DABF8BADA76',
+    participant: undefined
+  },
+  messageTimestamp: 1733344946,
+  pushName: 'alfredo',
+  broadcast: false,
+  message: Message {
+    conversation: 'bajare para lo de git en un rato disculpe lo habia olvidado',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'bajare para lo de git en un rato disculpe lo habia olvidado',
+  from: '18493306753'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f53459fe-2320-439b-b9c5-52aea6da3a9a',
+  keyword: 'key_e286b794-2fc2-465a-a538-9ada01135e6c',
+  answer: 'Bienvenido al whatsapp de GRUPO BONANZA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd46c641b097cd7d3711d787baad06e27'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5902fadb-ac44-4bb4-8929-6d7792563d78',
+  keyword: 'ans_f53459fe-2320-439b-b9c5-52aea6da3a9a',
+  answer: 'Por favor seleccionar la opción que requiera:\r\n' +
+    '\r\n' +
+    '1 - Conocer todos nuestros modelos\r\n' +
+    '2 - Información sobre un modelo específico\r\n' +
+    '3 - Programar una prueba de manejo\r\n' +
+    '4 - Consultar opciones de financiamiento\r\n' +
+    '5 - Haga una consulta\r\n' +
+    '6 - Solicitar cotización\r\n' +
+    '7 - Conversar con un asesor\r\n' +
+    '\r\n' +
+    '0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd5837a174cb9c8bd1a9c1fdbfe1b5fc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18493306753@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB044752ADFB32A73D055',
+    participant: undefined
+  },
+  messageTimestamp: 1733346976,
+  pushName: 'alfredo',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '18493306753'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18493306753@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0373BB1E0A64D279FCF',
+    participant: undefined
+  },
+  messageTimestamp: 1733346980,
+  pushName: 'alfredo',
+  broadcast: false,
+  message: Message {
+    conversation: '5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '5',
+  from: '18493306753'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f53459fe-2320-439b-b9c5-52aea6da3a9a',
+  keyword: 'key_e286b794-2fc2-465a-a538-9ada01135e6c',
+  answer: 'Bienvenido al whatsapp de GRUPO BONANZA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd46c641b097cd7d3711d787baad06e27'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5902fadb-ac44-4bb4-8929-6d7792563d78',
+  keyword: 'ans_f53459fe-2320-439b-b9c5-52aea6da3a9a',
+  answer: 'Por favor seleccionar la opción que requiera:\r\n' +
+    '\r\n' +
+    '1 - Conocer todos nuestros modelos\r\n' +
+    '2 - Información sobre un modelo específico\r\n' +
+    '3 - Programar una prueba de manejo\r\n' +
+    '4 - Consultar opciones de financiamiento\r\n' +
+    '5 - Haga una consulta\r\n' +
+    '6 - Solicitar cotización\r\n' +
+    '7 - Conversar con un asesor\r\n' +
+    '\r\n' +
+    '0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd5837a174cb9c8bd1a9c1fdbfe1b5fc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '19548429157@s.whatsapp.net',
+    fromMe: false,
+    id: '3A179388779F8862F72A',
+    participant: undefined
+  },
+  messageTimestamp: 1733357451,
+  pushName: 'Jesica 👑',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Si llegue casi ahora',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si llegue casi ahora',
+  from: '19548429157'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f53459fe-2320-439b-b9c5-52aea6da3a9a',
+  keyword: 'key_e286b794-2fc2-465a-a538-9ada01135e6c',
+  answer: 'Bienvenido al whatsapp de GRUPO BONANZA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd46c641b097cd7d3711d787baad06e27'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5902fadb-ac44-4bb4-8929-6d7792563d78',
+  keyword: 'ans_f53459fe-2320-439b-b9c5-52aea6da3a9a',
+  answer: 'Por favor seleccionar la opción que requiera:\r\n' +
+    '\r\n' +
+    '1 - Conocer todos nuestros modelos\r\n' +
+    '2 - Información sobre un modelo específico\r\n' +
+    '3 - Programar una prueba de manejo\r\n' +
+    '4 - Consultar opciones de financiamiento\r\n' +
+    '5 - Haga una consulta\r\n' +
+    '6 - Solicitar cotización\r\n' +
+    '7 - Conversar con un asesor\r\n' +
+    '\r\n' +
+    '0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd5837a174cb9c8bd1a9c1fdbfe1b5fc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '19548429157@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE66A041202F06334C2',
+    participant: undefined
+  },
+  messageTimestamp: 1733362832,
+  pushName: 'Jesica 👑',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Sii', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Sii',
+  from: '19548429157'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '19548429157@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE620B270C73674F5FD',
+    participant: undefined
+  },
+  messageTimestamp: 1733363439,
+  pushName: 'Jesica 👑',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Acostada mañana hay clases',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Acostada mañana hay clases',
+  from: '19548429157'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18493306753@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB095EACE2B260E7DA86A',
+    participant: undefined
+  },
+  messageTimestamp: 1733401494,
+  pushName: 'alfredo',
+  broadcast: false,
+  message: Message {
+    conversation: 'esta alla abajo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'esta alla abajo?',
+  from: '18493306753'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18493306753@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06205E57D227FC9BA19',
+    participant: undefined
+  },
+  messageTimestamp: 1733401504,
+  pushName: 'alfredo',
+  broadcast: false,
+  message: Message {
+    conversation: '😅',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '😅',
+  from: '18493306753'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18092182999@s.whatsapp.net',
+    fromMe: false,
+    id: '3F6F14D0CAF5476042E3',
+    participant: undefined
+  },
+  messageTimestamp: 1733409424,
+  pushName: 'César Donovan',
+  broadcast: false,
+  message: Message {
+    documentMessage: DocumentMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7119-24/30771376_1491043364895004_7642976361788175181_n.enc?ccb=11-4&oh=01_Q5AaIBcGf2mV16QTWITdr5_VyYdiFEgEQRH9AG8UoLESdqCq&oe=67794319&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+      title: 'PLANILLA-CARLOS.xlsx',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      pageCount: 1,
+      mediaKey: [Uint8Array],
+      fileName: 'PLANILLA-CARLOS.xlsx',
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7119-24/30771376_1491043364895004_7642976361788175181_n.enc?ccb=11-4&oh=01_Q5AaIBcGf2mV16QTWITdr5_VyYdiFEgEQRH9AG8UoLESdqCq&oe=67794319&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      caption: ''
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_document__8e918071-aa3a-442e-8cff-251f57f5bd42',
+  from: '18092182999'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18099804076@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8DC557660024D69BE8',
+    participant: undefined
+  },
+  messageTimestamp: 1733410932,
+  pushName: 'Jose Fernando Lama',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jose Fernando',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Jose Fernando',
+  from: '18099804076'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f53459fe-2320-439b-b9c5-52aea6da3a9a',
+  keyword: 'key_e286b794-2fc2-465a-a538-9ada01135e6c',
+  answer: 'Bienvenido al whatsapp de GRUPO BONANZA',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'd46c641b097cd7d3711d787baad06e27'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5902fadb-ac44-4bb4-8929-6d7792563d78',
+  keyword: 'ans_f53459fe-2320-439b-b9c5-52aea6da3a9a',
+  answer: 'Por favor seleccionar la opción que requiera:\r\n' +
+    '\r\n' +
+    '1 - Conocer todos nuestros modelos\r\n' +
+    '2 - Información sobre un modelo específico\r\n' +
+    '3 - Programar una prueba de manejo\r\n' +
+    '4 - Consultar opciones de financiamiento\r\n' +
+    '5 - Haga una consulta\r\n' +
+    '6 - Solicitar cotización\r\n' +
+    '7 - Conversar con un asesor\r\n' +
+    '\r\n' +
+    '0 - Salir',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'cd5837a174cb9c8bd1a9c1fdbfe1b5fc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18099804076@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9F7255120A05F5B525',
+    participant: undefined
+  },
+  messageTimestamp: 1733410940,
+  pushName: 'Jose Fernando Lama',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para que me mandes los datos por aqui',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Para que me mandes los datos por aqui',
+  from: '18099804076'
+}
